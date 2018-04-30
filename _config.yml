@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: Technology Consultant
 email: tb@tylorbunting.com
 url: https://tylorbunting.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Technology Consultant specialising in Intelligent Automation"
+skills: "Intelligent Automation & Business Intelligence"
 meta_author: Bunting Tylor
 
 # Google webmaster tools
@@ -39,21 +39,19 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: https://au.linkedin.com/in/tylorbunting
   - title: facebook
-    url:
+    url: https://www.facebook.com/tylorbunting?ref=bookmarks
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://stackoverflow.com/users/6328183/tylor-bunting?tab=profile
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/buntoss
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 26 Felix Street
+  - line: Brisbane City, QLD 4000
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
