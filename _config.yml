@@ -1,10 +1,10 @@
 # Site settings
-title: Tylor Bunting
-email: tb@tylorbunting.com
+title: The Technology Consultant
+email: buntoss@gmail.com
 url: https://tylorbunting.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Intelligent Automation & Business Intelligence"
+skills: "BluePrism, R, SQL, Python, AI, Agile, DevOps, ITIL,"
 meta_author: Bunting Tylor
 
 # Google webmaster tools
@@ -41,8 +41,6 @@ footer:
 social:
   - title: linkedin
     url: https://au.linkedin.com/in/tylorbunting
-  - title: facebook
-    url: https://www.facebook.com/tylorbunting?ref=bookmarks
   - title: stack-overflow
     url: https://stackoverflow.com/users/6328183/tylor-bunting?tab=profile
   - title: github
@@ -50,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 26 Felix Street
-  - line: Brisbane City, QLD 4000
+  - line: 3/48 Old Burleigh Road
+  - line: Surfers Paradise, QLD 4217
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
