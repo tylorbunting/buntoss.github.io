@@ -1,10 +1,10 @@
 # Site settings
-title: Technology Tinkerer
-email: tb@tylorbunting.com
+title: Tylor Bunting
+email: buntoss@gmail.com
 url: https://tylorbunting.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Intelligent Automation & Business Intelligence"
+skills: "Intelligent Automation | Analytics"
 meta_author: Bunting Tylor
 
 # Google webmaster tools
@@ -50,8 +50,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Brisbane City
-  - line: QLD 4000
+  - line: Gold Coast
+  - line: QLD 4217
 
 # Credits content
 credits: 'The source code for this website has been modified by Tylor Bunting. However, the original code was forked off 'Freelancer', which is an open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
