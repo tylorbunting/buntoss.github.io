@@ -4,7 +4,7 @@ email: buntoss@gmail.com
 url: https://tylorbunting.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Intelligent Automation | Analytics"
+skills: "Intelligent Automation | Operational Analytics"
 meta_author: Bunting Tylor
 
 # Google webmaster tools
@@ -42,14 +42,13 @@ social:
   - title: linkedin
     url: https://au.linkedin.com/in/tylorbunting
   - title: facebook
-    url: https://www.facebook.com/tylorbunting?ref=bookmarks
-  - title: stack-overflow
     url: https://stackoverflow.com/users/6328183/tylor-bunting?tab=profile
   - title: github
     url: http://github.com/buntoss
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: 3/48 Old Burleigh Road
   - line: Gold Coast
   - line: QLD 4217
 
