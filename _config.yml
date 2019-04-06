@@ -38,11 +38,10 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# stackoverflow = https://stackoverflow.com/users/6328183/tylor-bunting?tab=profile
 social:
   - title: linkedin
     url: https://au.linkedin.com/in/tylorbunting
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/6328183/tylor-bunting?tab=profile
   - title: github
     url: http://github.com/buntoss
 
