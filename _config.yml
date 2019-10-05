@@ -1,5 +1,5 @@
 # Site settings
-title: The Technology Consultant
+title: Technology Consultant
 email: buntoss@gmail.com
 url: https://tylorbunting.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -44,6 +44,10 @@ social:
     url: https://au.linkedin.com/in/tylorbunting
   - title: github
     url: http://github.com/buntoss
+  - title: instagram
+    url: https://www.instagram.com/tylor.bunting/?hl=en
+  - title: youtube
+    url: https://www.youtube.com/user/buntossinc/featured?view_as=subscriber
 
 # Postal address (add as many lines as necessary)
 address:
