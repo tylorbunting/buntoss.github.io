@@ -2,12 +2,12 @@
 layout: default
 modal-id: 4
 date: 2019-09-28
-img: govhack2019solution.png
+img: govhack2019solution.jpg
 alt: image-alt
 project-date: September 2019
 client: GovHack 2019
 category: R, Python & Form Development
-description: This project was established to create a solution for the GovHack 2019 competition, which can be found at [tylorbunting.com/GovHack2019](http://tylorbunting.com/GovHack2019/). 
+description: This project was established to create a solution for the GovHack 2019 competition, which can be found at <a href = "http://tylorbunting.com/GovHack2019/">tylorbunting.com/GovHack2019/</a>. 
 
 
 ---
