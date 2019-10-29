@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-10-29T18:05:30+11:00</updated>
+  <updated>2019-10-29T18:06:48+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,46 @@
   
   
     <entry>
-      <title type="html">Ia Dashboard Resource</title>
-      <link href="http://localhost:4000/r%20development/2019/04/07/IA-Dashboard-Resource/" rel="alternate" type="text/html" title="Ia Dashboard Resource" />
+      <title type="html">Govhack2019</title>
+      <link href="http://localhost:4000/r,%20python%20&%20form%20development/2019/09/28/GovHack2019/" rel="alternate" type="text/html" title="Govhack2019" />
+      <published>2019-09-28T00:00:00+10:00</published>
+      <updated>2019-09-28T00:00:00+10:00</updated>
+      <id>http://localhost:4000/r,%20python%20&amp;%20form%20development/2019/09/28/GovHack2019</id>
+      <content type="html" xml:base="http://localhost:4000/r,%20python%20&amp;%20form%20development/2019/09/28/GovHack2019/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="R, Python &amp; Form Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Trellor_custom</title>
+      <link href="http://localhost:4000/r%20development/2019/04/07/TrelloR_custom/" rel="alternate" type="text/html" title="Trellor_custom" />
       <published>2019-04-07T00:00:00+11:00</published>
       <updated>2019-04-07T00:00:00+11:00</updated>
-      <id>http://localhost:4000/r%20development/2019/04/07/IA-Dashboard-Resource</id>
-      <content type="html" xml:base="http://localhost:4000/r%20development/2019/04/07/IA-Dashboard-Resource/"></content>
+      <id>http://localhost:4000/r%20development/2019/04/07/TrelloR_custom</id>
+      <content type="html" xml:base="http://localhost:4000/r%20development/2019/04/07/TrelloR_custom/"></content>
 
       
       
