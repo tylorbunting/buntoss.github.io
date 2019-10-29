@@ -2,7 +2,7 @@
 title: Technology Consultant
 email: buntoss@gmail.com
 url: https://tylorbunting.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Official landing page for Tylor Bunting's Technology Consulting services. Links for various previous projects Tylor Bunting has been involved in and social media sites can be found here. "
 keywords: "BluePrism; R; SQL; Python; AI; Agile; DevOps; ITIL; machine learning; RPA; Intelligent Automation; Robotic Process Automation"
 skills: "BluePrism, R, SQL, Python, AI, Agile, DevOps, ITIL"
 meta_author: Bunting Tylor
@@ -32,22 +32,25 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Buntoss PTY LTD 2018
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # stackoverflow = https://stackoverflow.com/users/6328183/tylor-bunting?tab=profile
+#- title: youtube
+#  url: https://www.youtube.com/user/buntossinc/featured?view_as=subscriber
+#- title: instagram
+#  url: https://www.instagram.com/tylor.bunting/?hl=en
+
 social:
   - title: linkedin
     url: https://au.linkedin.com/in/tylorbunting
   - title: github
-    url: http://github.com/buntoss
-  - title: instagram
-    url: https://www.instagram.com/tylor.bunting/?hl=en
-  - title: youtube
-    url: https://www.youtube.com/user/buntossinc/featured?view_as=subscriber
+    url: https://github.com/tylorbunting
+  - title: medium
+    url: https://medium.com/@tylorbunting
 
 # Postal address (add as many lines as necessary)
 address:
