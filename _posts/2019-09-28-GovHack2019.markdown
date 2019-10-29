@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2019-09-28
-img: govhack2019solution.jpg
+img: govhack2019solution.png
 alt: image-alt
 project-date: September 2019
 client: GovHack 2019
