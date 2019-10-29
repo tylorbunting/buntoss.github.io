@@ -171,6 +171,10 @@ header .intro-text .skills {
     border: 0;
 }
 
+.fa-medium:before {
+  content: "M";
+}
+
 section {
     padding: 100px 0;
 }
