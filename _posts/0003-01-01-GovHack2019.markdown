@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+img: govhack2019solution.PNG
+alt: image-alt
+project-date: September 2019
+client: <a href = "https://govhack.org/">Govhack 2019</a>. 
+category: RPA, Analytics, Cloud
+description: This solution aims to streamline the process for entities reporting their income and assets to the Government when fileing for Bankruptcy. The solution was developed inorder to respond to a challenge posed at the 2019 GovHack Hackathon competition. More information on the solution and competition can be found <a href = "http://tylorbunting.com/GovHack2019/"><b>HERE</b></a>. 
+
+
+---

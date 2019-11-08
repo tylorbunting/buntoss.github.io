@@ -4,7 +4,7 @@ email: tb@tylorbunting.com
 url: https://tylorbunting.com
 description: "Official landing page for Tylor Buntings Technology Consulting services. Links for various previous projects Tylor Bunting has been involved in and social media sites can be found here."
 keywords: "BluePrism; R; SQL; Python; AI; Agile; DevOps; ITIL; machine learning; RPA; Intelligent Automation; Robotic Process Automation"
-skills: "BluePrism | UiPath | R | SQL | Python | DevOps | ITIL"
+skills: "RPA | Analytics | Cloud | DevOps"
 meta_author: Bunting Tylor
 
 # Google webmaster tools
@@ -58,8 +58,13 @@ address:
   - line: Surfers Paradise, QLD 4217
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://tylorbunting.com/">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Collections
+collections:
+  clients:
+    output: true

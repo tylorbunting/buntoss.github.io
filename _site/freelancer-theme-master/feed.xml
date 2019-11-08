@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="http://localhost:4000/freelancer-theme-master/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-10-30T17:37:43+11:00</updated>
+  <updated>2019-11-08T15:14:07+10:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <subtitle>Official landing page for Tylor Bunting's Technology Consulting services. Links for various previous projects Tylor Bunting has been involved in and social media sites can be found here. </subtitle>
+    <subtitle>Official landing page for Tylor Buntings Technology Consulting services. Links for various previous projects Tylor Bunting has been involved in and social media sites can be found here.</subtitle>
   
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Govhack2019</title>
-      <link href="http://localhost:4000/r,%20python%20&%20form%20development/2019/09/28/GovHack2019/" rel="alternate" type="text/html" title="Govhack2019" />
-      <published>2019-09-28T00:00:00+10:00</published>
-      <updated>2019-09-28T00:00:00+10:00</updated>
-      <id>http://localhost:4000/r,%20python%20&amp;%20form%20development/2019/09/28/GovHack2019</id>
-      <content type="html" xml:base="http://localhost:4000/r,%20python%20&amp;%20form%20development/2019/09/28/GovHack2019/"></content>
+      <link href="http://localhost:4000/rpa,%20analytics,%20cloud/0003/01/01/GovHack2019/" rel="alternate" type="text/html" title="Govhack2019" />
+      <published>0003-01-01T00:00:00+10:00</published>
+      <updated>0003-01-01T00:00:00+10:00</updated>
+      <id>http://localhost:4000/rpa,%20analytics,%20cloud/0003/01/01/GovHack2019</id>
+      <content type="html" xml:base="http://localhost:4000/rpa,%20analytics,%20cloud/0003/01/01/GovHack2019/"></content>
 
       
       
@@ -40,7 +40,41 @@
       </author>
 
       
-        <category term="R, Python &amp; Form Development" />
+        <category term="RPA, Analytics, Cloud" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Financial dashboard</title>
+      <link href="http://localhost:4000/analytics,%20cloud/0002/01/01/Financial-Dashboard/" rel="alternate" type="text/html" title="Financial dashboard" />
+      <published>0002-01-01T00:00:00+10:00</published>
+      <updated>0002-01-01T00:00:00+10:00</updated>
+      <id>http://localhost:4000/analytics,%20cloud/0002/01/01/Financial%20Dashboard</id>
+      <content type="html" xml:base="http://localhost:4000/analytics,%20cloud/0002/01/01/Financial-Dashboard/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Analytics, Cloud" />
       
 
       
@@ -55,11 +89,11 @@
   
     <entry>
       <title type="html">Trellor_custom</title>
-      <link href="http://localhost:4000/r%20development/2019/04/07/TrelloR_custom/" rel="alternate" type="text/html" title="Trellor_custom" />
-      <published>2019-04-07T00:00:00+11:00</published>
-      <updated>2019-04-07T00:00:00+11:00</updated>
-      <id>http://localhost:4000/r%20development/2019/04/07/TrelloR_custom</id>
-      <content type="html" xml:base="http://localhost:4000/r%20development/2019/04/07/TrelloR_custom/"></content>
+      <link href="http://localhost:4000/analytics,%20devops/0001/01/01/TrelloR_custom/" rel="alternate" type="text/html" title="Trellor_custom" />
+      <published>0001-01-01T00:00:00+10:00</published>
+      <updated>0001-01-01T00:00:00+10:00</updated>
+      <id>http://localhost:4000/analytics,%20devops/0001/01/01/TrelloR_custom</id>
+      <content type="html" xml:base="http://localhost:4000/analytics,%20devops/0001/01/01/TrelloR_custom/"></content>
 
       
       
@@ -74,75 +108,7 @@
       </author>
 
       
-        <category term="R Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Ia Dashboard Process</title>
-      <link href="http://localhost:4000/r%20development/2019/04/07/IA-Dashboard-Process/" rel="alternate" type="text/html" title="Ia Dashboard Process" />
-      <published>2019-04-07T00:00:00+11:00</published>
-      <updated>2019-04-07T00:00:00+11:00</updated>
-      <id>http://localhost:4000/r%20development/2019/04/07/IA-Dashboard-Process</id>
-      <content type="html" xml:base="http://localhost:4000/r%20development/2019/04/07/IA-Dashboard-Process/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="R Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Financial Dashboard</title>
-      <link href="http://localhost:4000/r%20development/2019/04/07/Financial-Dashboard/" rel="alternate" type="text/html" title="Financial Dashboard" />
-      <published>2019-04-07T00:00:00+11:00</published>
-      <updated>2019-04-07T00:00:00+11:00</updated>
-      <id>http://localhost:4000/r%20development/2019/04/07/Financial-Dashboard</id>
-      <content type="html" xml:base="http://localhost:4000/r%20development/2019/04/07/Financial-Dashboard/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="R Development" />
+        <category term="Analytics, DevOps" />
       
 
       
