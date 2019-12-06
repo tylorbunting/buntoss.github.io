@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: imageComingSoon.jpg
+img: shiny_image.png
 alt: image-alt
 project-date: April 2019
 client: Personal

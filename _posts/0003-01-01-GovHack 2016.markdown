@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+img: boj_image.PNG
+alt: image-alt
+project-date: September 2019
+client: <a href = "https://govhack.org/">Govhack 2016</a>. 
+category: Analytics, Cloud
+description: This solution aims to combat the challenge of preparing Students for the unpredictable workforce of the future. The solution was developed inorder to respond to a challenge posed at the 2016 GovHack Hackathon competition. More information on the solution and competition can be found <a href = "https://www.youtube.com/watch?v=H2DuAP9u3Bs"><b>HERE</b></a>. 
+
+
+---
