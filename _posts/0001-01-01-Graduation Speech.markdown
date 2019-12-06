@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-img: grad_speech.png
+img: grad_speech.jpg
 alt: image-alt
 project-date: April 2019
 client: <a href = "https://www.canberra.edu.au/">University of Canberra</a>

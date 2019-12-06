@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-12-04T14:36:39+11:00</updated>
+  <updated>2019-12-06T17:19:42+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">Trellor_devops</title>
-      <link href="http://localhost:4000/analytics,%20devops/0003/01/01/TrelloR_DevOps/" rel="alternate" type="text/html" title="Trellor_devops" />
+      <title type="html">Trellor devops</title>
+      <link href="http://localhost:4000/analytics,%20devops/0003/01/01/TrelloR-DevOps/" rel="alternate" type="text/html" title="Trellor devops" />
       <published>0003-01-01T00:00:00+11:00</published>
       <updated>0003-01-01T00:00:00+11:00</updated>
-      <id>http://localhost:4000/analytics,%20devops/0003/01/01/TrelloR_DevOps</id>
-      <content type="html" xml:base="http://localhost:4000/analytics,%20devops/0003/01/01/TrelloR_DevOps/"></content>
+      <id>http://localhost:4000/analytics,%20devops/0003/01/01/TrelloR%20DevOps</id>
+      <content type="html" xml:base="http://localhost:4000/analytics,%20devops/0003/01/01/TrelloR-DevOps/"></content>
 
       
       
@@ -54,12 +54,12 @@
     </entry>
   
     <entry>
-      <title type="html">Govhack2019</title>
-      <link href="http://localhost:4000/rpa,%20analytics,%20cloud/0002/01/01/GovHack2019/" rel="alternate" type="text/html" title="Govhack2019" />
+      <title type="html">Govhack 2019</title>
+      <link href="http://localhost:4000/rpa,%20analytics,%20cloud/0002/01/01/GovHack-2019/" rel="alternate" type="text/html" title="Govhack 2019" />
       <published>0002-01-01T00:00:00+11:00</published>
       <updated>0002-01-01T00:00:00+11:00</updated>
-      <id>http://localhost:4000/rpa,%20analytics,%20cloud/0002/01/01/GovHack2019</id>
-      <content type="html" xml:base="http://localhost:4000/rpa,%20analytics,%20cloud/0002/01/01/GovHack2019/"></content>
+      <id>http://localhost:4000/rpa,%20analytics,%20cloud/0002/01/01/GovHack%202019</id>
+      <content type="html" xml:base="http://localhost:4000/rpa,%20analytics,%20cloud/0002/01/01/GovHack-2019/"></content>
 
       
       
