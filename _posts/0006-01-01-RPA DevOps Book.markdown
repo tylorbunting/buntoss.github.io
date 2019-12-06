@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-img: RPA_DevOps_image.png
+img: RPA_DevOps_image.jpg
 alt: image-alt
 project-date: Jan 2020
 client: Open Source
