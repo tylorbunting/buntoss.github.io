@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-img: bank.png
+img: bank.jpg
 alt: image-alt
 project-date: Dec 2017 until May 2018
 client: Banking
