@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-04-03T17:12:25+11:00</updated>
+  <updated>2020-04-03T18:41:55+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Rpa devops book</title>
-      <link href="http://localhost:4000/rpa,%20analytics,%20cloud,%20devops/2016/01/01/RPA-DevOps-Book/" rel="alternate" type="text/html" title="Rpa devops book" />
-      <published>2016-01-01T00:00:00+11:00</published>
-      <updated>2016-01-01T00:00:00+11:00</updated>
-      <id>http://localhost:4000/rpa,%20analytics,%20cloud,%20devops/2016/01/01/RPA%20DevOps%20Book</id>
-      <content type="html" xml:base="http://localhost:4000/rpa,%20analytics,%20cloud,%20devops/2016/01/01/RPA-DevOps-Book/"></content>
+      <link href="http://localhost:4000/rpa,%20analytics,%20cloud,%20devops/2017/01/01/RPA-DevOps-Book/" rel="alternate" type="text/html" title="Rpa devops book" />
+      <published>2017-01-01T00:00:00+11:00</published>
+      <updated>2017-01-01T00:00:00+11:00</updated>
+      <id>http://localhost:4000/rpa,%20analytics,%20cloud,%20devops/2017/01/01/RPA%20DevOps%20Book</id>
+      <content type="html" xml:base="http://localhost:4000/rpa,%20analytics,%20cloud,%20devops/2017/01/01/RPA-DevOps-Book/"></content>
 
       
       
@@ -54,12 +54,12 @@
     </entry>
   
     <entry>
-      <title type="html">Trellor devops</title>
-      <link href="http://localhost:4000/analytics,%20devops/2015/01/01/TrelloR-DevOps/" rel="alternate" type="text/html" title="Trellor devops" />
-      <published>2015-01-01T00:00:00+11:00</published>
-      <updated>2015-01-01T00:00:00+11:00</updated>
-      <id>http://localhost:4000/analytics,%20devops/2015/01/01/TrelloR%20DevOps</id>
-      <content type="html" xml:base="http://localhost:4000/analytics,%20devops/2015/01/01/TrelloR-DevOps/"></content>
+      <title type="html">Covid19 analysis</title>
+      <link href="http://localhost:4000/analytics/2016/01/01/COVID19-Analysis/" rel="alternate" type="text/html" title="Covid19 analysis" />
+      <published>2016-01-01T00:00:00+11:00</published>
+      <updated>2016-01-01T00:00:00+11:00</updated>
+      <id>http://localhost:4000/analytics/2016/01/01/COVID19%20Analysis</id>
+      <content type="html" xml:base="http://localhost:4000/analytics/2016/01/01/COVID19-Analysis/"></content>
 
       
       
@@ -74,7 +74,41 @@
       </author>
 
       
-        <category term="Analytics, DevOps" />
+        <category term="Analytics" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Govhack 2016</title>
+      <link href="http://localhost:4000/analytics,%20cloud/2015/01/01/GovHack-2016/" rel="alternate" type="text/html" title="Govhack 2016" />
+      <published>2015-01-01T00:00:00+11:00</published>
+      <updated>2015-01-01T00:00:00+11:00</updated>
+      <id>http://localhost:4000/analytics,%20cloud/2015/01/01/GovHack%202016</id>
+      <content type="html" xml:base="http://localhost:4000/analytics,%20cloud/2015/01/01/GovHack-2016/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Analytics, Cloud" />
       
 
       
@@ -122,12 +156,12 @@
     </entry>
   
     <entry>
-      <title type="html">Govhack 2016</title>
-      <link href="http://localhost:4000/analytics,%20cloud/2013/01/01/GovHack-2016/" rel="alternate" type="text/html" title="Govhack 2016" />
+      <title type="html">Trellor devops</title>
+      <link href="http://localhost:4000/analytics,%20devops/2013/01/01/TrelloR-DevOps/" rel="alternate" type="text/html" title="Trellor devops" />
       <published>2013-01-01T00:00:00+11:00</published>
       <updated>2013-01-01T00:00:00+11:00</updated>
-      <id>http://localhost:4000/analytics,%20cloud/2013/01/01/GovHack%202016</id>
-      <content type="html" xml:base="http://localhost:4000/analytics,%20cloud/2013/01/01/GovHack-2016/"></content>
+      <id>http://localhost:4000/analytics,%20devops/2013/01/01/TrelloR%20DevOps</id>
+      <content type="html" xml:base="http://localhost:4000/analytics,%20devops/2013/01/01/TrelloR-DevOps/"></content>
 
       
       
@@ -142,7 +176,7 @@
       </author>
 
       
-        <category term="Analytics, Cloud" />
+        <category term="Analytics, DevOps" />
       
 
       
@@ -190,12 +224,12 @@
     </entry>
   
     <entry>
-      <title type="html">Covid19 analysis</title>
-      <link href="http://localhost:4000/analytics/2011/01/01/COVID19-Analysis/" rel="alternate" type="text/html" title="Covid19 analysis" />
+      <title type="html">Graduation speech</title>
+      <link href="http://localhost:4000/speaking/2011/01/01/Graduation-Speech/" rel="alternate" type="text/html" title="Graduation speech" />
       <published>2011-01-01T00:00:00+11:00</published>
       <updated>2011-01-01T00:00:00+11:00</updated>
-      <id>http://localhost:4000/analytics/2011/01/01/COVID19%20Analysis</id>
-      <content type="html" xml:base="http://localhost:4000/analytics/2011/01/01/COVID19-Analysis/"></content>
+      <id>http://localhost:4000/speaking/2011/01/01/Graduation%20Speech</id>
+      <content type="html" xml:base="http://localhost:4000/speaking/2011/01/01/Graduation-Speech/"></content>
 
       
       
@@ -210,7 +244,7 @@
       </author>
 
       
-        <category term="Analytics" />
+        <category term="Speaking" />
       
 
       
