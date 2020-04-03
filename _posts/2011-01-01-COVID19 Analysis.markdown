@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: covid19.png
+img: covid19.jpg
 alt: image-alt
 project-date: March 2020
 client: <a href = "http://tylorbunting.com/COVID19_Analysis/">Australian Public</a>
