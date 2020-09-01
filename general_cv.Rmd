@@ -1,0 +1,16 @@
+---
+title: "general_cv"
+author: "Tylor Bunting"
+date: "01/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tylor Bunting | Technology Consultant
+
+Tylor is an experienced Technology Consultant with a strong focus on delivering Intelligent Automation (IA) projects. Tylor’s affinity with this type of work stems from his experience working on projects using the exciting technologies that fall under the Intelligent Automation umbrella (RPA, Analytics, Cloud) to provide measurable value to businesses. His technical training with Analytically focused programming languages (R, SQL), Cloud technologies (Azure), and RPA technologies (BluePrism and UiPath) have enabled him to take lead roles on these projects. Tylor is passionate about the Intelligent Automation space and he looks forward to continuing his growth as a leader in the field.
+
+![Alt text](img\buntoss_white_small.jpg)
